@@ -6,7 +6,8 @@
 
 
 <div  align="center">
-<h3>안녕하세요 👋  프론트엔드개발을 공부하고 있습니다 </h3>
+<h3>안녕하세요 👋</h3>
+<h4> 프론트엔드개발을 공부하고 있습니다 </h4>
 <a href="https://velog.io/@seungmimi" target="_blank">
   <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=react&logoColor=white"/>
 </a>
